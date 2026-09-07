@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👨‍💻 Hi! I'm Vinícius
 
-<!--
-**Vinnib7/Vinnib7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+💻 Interested in **Software Development, Technology and Programming**
+🐍 Currently learning **Python, HTML and CSS**
+🚀 Building my first projects and developing my skills in the technology field.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Engineering student** currently building my career in technology.
+
+I'm focused on learning programming, developing practical projects, and building a strong foundation to work professionally as a software developer.
+
+My goal is to keep improving my skills, create better and more challenging projects, and eventually pursue professional opportunities in the international technology market.
+
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+* 🐍 Python
+* 🌐 HTML
+* 🎨 CSS
+
+### Tools
+
+* 💻 Visual Studio Code
+* 🔧 Git
+* 🐙 GitHub
+
+
+## 📚 Currently Learning
+
+* Python
+* Programming Logic
+* Conditional Statements
+* Loops
+* Web Development
+* HTML & CSS
+* Git & GitHub
+* APIs
+* Databases
+
+
+## 🚀 Projects
+
+Here you'll find projects I've developed throughout my Software Engineering journey.
+
+I use this space to practice what I'm learning, track my progress, and build my professional portfolio.
+
+📌 **More projects will be added as I continue learning and improving.**
+
+
+## 🎯 Goals
+
+* 📖 Continuously improve my programming skills
+* 💻 Build personal and academic projects
+* 🧠 Learn new technologies
+* 🌎 Work in the international technology market
+* 🚀 Build a strong professional portfolio
+* 👨‍💻 Get my first professional opportunity in software development
+
+## 📈 My Journey
+
+> Starting from the basics, learning every day, and building my future in technology. 🚀
+
+
+## 📫 Contact
+
+📧 Email: **[your email here]**
+💼 LinkedIn: **[your LinkedIn here]**
+
+
+⭐ Feel free to explore my repositories and follow my journey in software development!
