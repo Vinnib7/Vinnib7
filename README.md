@@ -67,8 +67,7 @@ I use this space to practice what I'm learning, track my progress, and build my 
 
 ## 📫 Contact
 
-📧 Email: **[your email here]**
-💼 LinkedIn: **[your LinkedIn here]**
+📧 Email: vinniboy13.steam@gmail.com
 
 
 ⭐ Feel free to explore my repositories and follow my journey in software development!
